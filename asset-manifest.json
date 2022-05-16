@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20813f62.chunk.css",
+    "main.js": "/static/js/main.9978e43b.chunk.js",
+    "main.js.map": "/static/js/main.9978e43b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b5414bb5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b5414bb5.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ce9e4336.chunk.js": "/static/js/2.ce9e4336.chunk.js",
+    "static/js/2.ce9e4336.chunk.js.map": "/static/js/2.ce9e4336.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.20813f62.chunk.css.map": "/static/css/main.20813f62.chunk.css.map",
+    "static/js/2.ce9e4336.chunk.js.LICENSE.txt": "/static/js/2.ce9e4336.chunk.js.LICENSE.txt",
+    "static/media/coding-languages.a62bdc7d.jpg": "/static/media/coding-languages.a62bdc7d.jpg",
+    "static/media/financial-statement-analysis.568c707e.png": "/static/media/financial-statement-analysis.568c707e.png",
+    "static/media/mapped-event-tracker.7bffb405.png": "/static/media/mapped-event-tracker.7bffb405.png",
+    "static/media/photo-keys.3a71fd1c.jpeg": "/static/media/photo-keys.3a71fd1c.jpeg",
+    "static/media/profile-picture.ad0983e7.jpeg": "/static/media/profile-picture.ad0983e7.jpeg",
+    "static/media/tech-blog.e28530ca.png": "/static/media/tech-blog.e28530ca.png",
+    "static/media/weather-dashboard.6b4a091c.png": "/static/media/weather-dashboard.6b4a091c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5414bb5.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ce9e4336.chunk.js",
+    "static/css/main.20813f62.chunk.css",
+    "static/js/main.9978e43b.chunk.js"
+  ]
+}
